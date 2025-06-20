@@ -42,6 +42,7 @@ Com esse sistema, será possível registrar e consultar dados com mais facilidad
 - Chave primária bem definida em todas as tabelas.
 
 ### Scripts SQL
+Scripts organizados por tipo (DDL, DML, DQL, DCL e DTL), contendo a criação da estrutura do banco, inserção e consulta de dados, controle de acesso e transações.
 
 ### DDL – Criação das Tabelas
  [📘 DDL](./sql/ddl.sql)
@@ -56,7 +57,7 @@ Com esse sistema, será possível registrar e consultar dados com mais facilidad
 
 ## Documentação
 
-Está estruturada conforme as normas da ABNT, contendo:
+Documento completo com modelagem, estrutura lógica, justificativas e desenvolvimento do projeto conforme normas da ABNT.
 
 - Introdução
 - Modelagem conceitual e lógica

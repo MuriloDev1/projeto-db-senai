@@ -1,0 +1,2 @@
+CREATE ROLE leitura LOGIN PASSWORD '123';
+GRANT SELECT ON paciente TO leitura;

@@ -66,6 +66,6 @@ Documento completo com modelagem, diagrama de entidade-relacionamento (DER), est
 ## Requisitos Técnicos
 
 - PostgreSQL
-- PgAdmin (opcional)
+- PgAdmin 
 - Ferramentas utilizadas:
 PostgreSQL, MySQl e dbdiagram.io.

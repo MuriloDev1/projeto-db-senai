@@ -41,7 +41,7 @@ Está estruturada conforme as normas da ABNT, contendo:
 - Scripts comentados
 - Conclusão e referências
 
--- DOCUMENTO VAI AQUI -- 
+[📘 Projeto - Banco de Dados (PDF)](./Projeto%20-%20Banco%20de%20Dados.pdf)
 
 ## Requisitos Técnicos
 

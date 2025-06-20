@@ -15,7 +15,7 @@ Com esse sistema, será possível registrar e consultar dados com mais facilidad
 - Murilo Antunes da Silva Galhardo de Carvalho  
 - Paola de Oliveira
 
-## Modelagem Conceitual
+## Modelagem de Dados
 
 ### Entidades:
 - Paciente (id_paciente, nome, CPF, data_nascimento, sexo, telefone, endereço)
@@ -31,7 +31,29 @@ Com esse sistema, será possível registrar e consultar dados com mais facilidad
 - Um médico pode realizar vários atendimentos e ter vários agendamentos.
 - Um atendimento pode gerar uma ou mais receitas.
 - Um exame pode ser feito por vários pacientes.
-  
+
+### Diagrama Entidade-Relacionamento (DER)
+--- IMAGEM --- 
+
+### Normalização
+
+- Sem atributos multivalorados.
+- Sem dependências transitivas.
+- Chave primária bem definida em todas as tabelas.
+
+### Scripts SQL
+
+### DDL – Criação das Tabelas
+ [📘 DDL – Criação das Tabelas](./sql/ddl.sql)
+### DML – Manipulação de Dados
+[📘 DML – Manipulação de Dados](./sql/dml.sql)
+### DQL – Consultas
+[📘 DQL – Consultas](./sql/dql.sql)
+### DCL - Linguagem de Controle de Dados
+[📘 DCL – Controle de Acesso](./sql/dcl.sql)
+### DTL - Linguagem de Transação de Dados
+[📘 DTL – Transações](./sql/dtl.sql)
+
 ## Documentação
 
 Está estruturada conforme as normas da ABNT, contendo:
@@ -41,7 +63,7 @@ Está estruturada conforme as normas da ABNT, contendo:
 - Scripts comentados
 - Conclusão e referências
 
-[📘 Projeto - Banco de Dados (PDF)](./Projeto%20-%20Banco%20de%20Dados.pdf)
+[Projeto - Banco de Dados (PDF)](./Projeto%20-%20Banco%20de%20Dados.pdf)
 
 ## Requisitos Técnicos
 

@@ -3,8 +3,6 @@
 ## Objetivo
 Este repositório contém o projeto final da disciplina de Banco de Dados Relacional. O objetivo é aplicar os conceitos estudados, incluindo modelagem, normalização e manipulação de dados utilizando DDL, DML, DQL — com bonificação para comandos DCL e DTL.
 
-## Estrutura do Projeto
-
 ## Tema do Projeto
 **Sistema de Gerenciamento de Saúde**
 Este projeto tem como objetivo criar um banco de dados relacional para um sistema que ajude no gerenciamento de uma unidade de saúde. A ideia é organizar as informações de pacientes, médicos, agendamentos, atendimentos, exames e receitas médicas de forma prática e eficiente.

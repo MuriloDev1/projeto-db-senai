@@ -44,15 +44,15 @@ Com esse sistema, será possível registrar e consultar dados com mais facilidad
 ### Scripts SQL
 
 ### DDL – Criação das Tabelas
- [📘 DDL – Criação das Tabelas](./sql/ddl.sql)
+ [📘 DDL](./sql/ddl.sql)
 ### DML – Manipulação de Dados
-[📘 DML – Manipulação de Dados](./sql/dml.sql)
+[📘 DML](./sql/dml.sql)
 ### DQL – Consultas
-[📘 DQL – Consultas](./sql/dql.sql)
+[📘 DQL](./sql/dql.sql)
 ### DCL - Linguagem de Controle de Dados
-[📘 DCL – Controle de Acesso](./sql/dcl.sql)
+[📘 DCL](./sql/dcl.sql)
 ### DTL - Linguagem de Transação de Dados
-[📘 DTL – Transações](./sql/dtl.sql)
+[📘 DTL](./sql/dtl.sql)
 
 ## Documentação
 
@@ -63,7 +63,7 @@ Está estruturada conforme as normas da ABNT, contendo:
 - Scripts comentados
 - Conclusão e referências
 
-[Projeto - Banco de Dados (PDF)](./Projeto%20-%20Banco%20de%20Dados.pdf)
+[📘 Projeto - Banco de Dados (PDF)](./Projeto%20-%20Banco%20de%20Dados.pdf)
 
 ## Requisitos Técnicos
 

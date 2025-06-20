@@ -32,9 +32,6 @@ Com esse sistema, será possível registrar e consultar dados com mais facilidad
 - Um atendimento pode gerar uma ou mais receitas.
 - Um exame pode ser feito por vários pacientes.
 
-### Diagrama Entidade-Relacionamento (DER)
---- IMAGEM --- 
-
 ### Normalização
 
 - Sem atributos multivalorados.
@@ -57,7 +54,7 @@ Scripts organizados por tipo (DDL, DML, DQL, DCL e DTL), contendo a criação da
 
 ## Documentação
 
-Documento completo com modelagem, estrutura lógica, justificativas e desenvolvimento do projeto conforme normas da ABNT.
+Documento completo com modelagem, diagrama de entidade-relacionamento (DER), estrutura lógica, justificativas e desenvolvimento do projeto conforme normas da ABNT.
 
 - Introdução
 - Modelagem conceitual e lógica
